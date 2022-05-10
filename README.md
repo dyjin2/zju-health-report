@@ -1,4 +1,4 @@
-# zju-health-report-action-demo (ZHR demo)
+# zju-health-report-action-demo
 
 <p align="center" style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="github-actions-logo" height="200" style="padding: 20px 20px 20px; display: inline-block; box-sizing: border-box;"></img>
