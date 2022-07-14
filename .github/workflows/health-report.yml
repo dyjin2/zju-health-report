@@ -25,9 +25,9 @@ jobs:
           #- username: ZJU_HSQ
           #  password: PASSWORD_HSQ
           #  dingtalk_token: DINGTALK_TOKEN
-          - username: XIELIN
-            password: XIELIN_PASSWORD
-            dingtalk_token: DINGTALK_TOKEN
+          #- username: XIELIN
+          #  password: XIELIN_PASSWORD
+          #  dingtalk_token: DINGTALK_TOKEN
     steps:
       - name: 打卡
         uses: zju-health-report/action@release
